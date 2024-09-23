@@ -1,0 +1,8 @@
+{
+  "/(index)/products/page": "app/(index)/products/page.js",
+  "/(index)/product/[pid]/page": "app/(index)/product/[pid]/page.js",
+  "/(index)/account/orders/page": "app/(index)/account/orders/page.js",
+  "/admin/orders/page": "app/admin/orders/page.js",
+  "/(index)/page": "app/(index)/page.js",
+  "/(index)/scan/page": "app/(index)/scan/page.js"
+}
